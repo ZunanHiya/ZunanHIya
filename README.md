@@ -32,6 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunanhiya&show_icons=true&locale=en" alt="zunanhiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunanhiya&" alt="zunanhiya" /></p>
-![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5pMzc3YmhjZm9pNXY3dzJkNnZweTVyMDZzOXJ5cWYwamZ4bm1iYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0o3mjqifL7wK4/giphy.gif
 
 
