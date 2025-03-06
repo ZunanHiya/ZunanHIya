@@ -32,5 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunanhiya&show_icons=true&locale=en" alt="zunanhiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunanhiya&" alt="zunanhiya" /></p>
-![Alt Text](https://your-image-url.gif)
 ![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
