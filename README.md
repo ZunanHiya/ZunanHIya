@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <em style="font-family: 'Times New Roman', serif;">I am Zunan Nashid Tahiya</em>
-<span style="color: red;">Zunan </span> <span style="color: blue;">Nashid Tahiya</span>
+
 
 
 </h1> 
