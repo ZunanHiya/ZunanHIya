@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm ZunaN Nashid Tahiya</h1> 
-![Alt text](https://github.com/ZunanHiya/ZunanHIya/blob/d0ebb54cdd0ebe901dfcb76e27228f20ef7285ab/Image%202.png)
-
-
 <h3 align="center">A FULL-STACK WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunanhiya&label=Profile%20views&color=0e75b6&style=flat" alt="zunanhiya" /> </p>
