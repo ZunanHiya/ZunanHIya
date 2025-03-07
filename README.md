@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, <em>I am Zunan Nashid Tahiya</em>
+<h1 align="center">Hi 👋, <em style="font-family: 'Times New Roman', serif;">I am Zunan Nashid Tahiya</em>
+
+
 </h1> 
 <h3 align="center">A FULL-STACK WEB DEVELOPER</h3>
 <img src="https://github.com/ZunanHiya/ZunanHIya/blob/6169907209012d19594c43e4d77fa986fb2a214c/Image%201.jpeg" width="1000">
