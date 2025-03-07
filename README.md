@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunanhiya&" alt="zunanhiya" /></p>
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFyZWd5azlmOTBlbXk3aHgyYmx2aWdxOXVhaXZibGdtaTdoamE1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qJzZ4APiDZQuJDY7vh/giphy.gif
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2MjBteG9sdzc1N2Q5dXZqcDM1NHBoNTRhenRjYmMyb2Y4NGlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0o3mjqifL7wK4/giphy.gif" alt="Funny Cat GIF">
