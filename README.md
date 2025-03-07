@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZunaN Nashid Tahiya</h1> 
 <h3 align="center">A FULL-STACK WEB DEVELOPER</h3>
 <img src="https://github.com/ZunanHiya/ZunanHIya/blob/6169907209012d19594c43e4d77fa986fb2a214c/Image%201.jpeg" width="1000">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZzbG44enlmeGpiOW15c284YWdkNWFmanh5bTI2MjM0dXV0azljdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Funny Cat GIF">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunanhiya&label=Profile%20views&color=0e75b6&style=flat" alt="zunanhiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zunanhiya" alt="zunanhiya" /></a> </p>
@@ -18,7 +16,7 @@
 - 📄 Know about my experiences [/Users/zunanhiya/Downloads/Hiya.pdf](/Users/zunanhiya/Downloads/Hiya.pdf)
 
 - ⚡ Fun fact **I think i am funny**
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZzbG44enlmeGpiOW15c284YWdkNWFmanh5bTI2MjM0dXV0azljdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Funny Cat GIF">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tahiyahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahiyahiya" height="30" width="40" /></a>
