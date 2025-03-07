@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZunaN Nashid Tahiya</h1> 
 <h3 align="center">A FULL-STACK WEB DEVELOPER</h3>
 <img src="https://github.com/ZunanHiya/ZunanHIya/blob/6169907209012d19594c43e4d77fa986fb2a214c/Image%201.jpeg" width="1000">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunanhiya&label=Profile%20views&color=0e75b6&style=flat" alt="zunanhiya" /> </p>
 
