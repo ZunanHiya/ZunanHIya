@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZunaN Nashid Tahiya</h1> 
-![image](Image 2.png)
+![Alt text](https://github.com/ZunanHiya/ZunanHIya/blob/d0ebb54cdd0ebe901dfcb76e27228f20ef7285ab/Image%202.png)
+
 
 <h3 align="center">A FULL-STACK WEB DEVELOPER</h3>
 
